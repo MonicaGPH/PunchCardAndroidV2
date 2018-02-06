@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_text.png",
+        "source": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\src\\main\\res\\drawable-mdpi\\ic_action_text.png"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_mail.png",
+        "source": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\src\\main\\res\\drawable-mdpi\\ic_action_mail.png"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_cross.png",
+        "source": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\src\\main\\res\\drawable-mdpi\\ic_cross.png"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_download.png",
+        "source": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\src\\main\\res\\drawable-mdpi\\ic_download.png"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_clip.png",
+        "source": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\src\\main\\res\\drawable-mdpi\\ic_clip.png"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_back_arrow.png",
+        "source": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\src\\main\\res\\drawable-mdpi\\ic_back_arrow.png"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_stat_name.png",
+        "source": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\src\\main\\res\\drawable-mdpi\\ic_stat_name.png"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_tick.png",
+        "source": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\src\\main\\res\\drawable-mdpi\\ic_tick.png"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PunchCard</string>
+    <string-array name="drawer_options_array_trial">
+        <item>Projects</item>
+        <item>My Account</item>
+        <item>My Punches</item>
+        <item>About App</item>
+        <item>Sign Out</item>
+    </string-array>
+
+    <string-array name="drawer_options_array">
+        <item>Projects</item>
+        <item>My Account</item>
+        <item>My Punches</item>
+        <item>About App</item>
+        <item>Subscribe</item>
+        <item>Sign Out</item>
+    </string-array>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="action_websearch">Web search</string>
+    <string name="app_not_available">Sorry, there\'s no web browser available</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_login">Login Activity</string>
+    <string name="title_activity_splash">Punchcard</string>
+    <string name="title_activity_project_details">ProjectDetailsActivity</string>
+    <string name="title_activity_my_account">My Profile</string>
+    <string name="title_activity_my_badge">My Badge</string>
+    <string name="title_activity_scanner">ScannerActivity</string>
+    <string name="title_activity_face_login">FaceRecognitionActivity</string>
+    <string name="title_activity_task_users">TaskUsersActivity</string>
+
+    <!-- Strings related to HomeActivity-->
+    <string name="scan_barcode_button">Scan barcode</string>
+    <string name="no_barcode_captured">No barcode captured</string>
+    <string name="no_image_captured">No image captured</string>
+    <string name="barcode_error_format">"Error reading barcode: %1$s"</string>
+    <!-- Transition type strings -->
+    <string name="geofence_transition_entered">Entered</string>
+    <string name="geofence_transition_exited">Exited</string>
+
+    <string name="unknown_geofence_transition">Unknown Transition</string>
+
+    <string name="geofence_transition_notification_text">
+        Click notification to return to app
+    </string>
+
+    <string name="geofence_transition_invalid_type">
+        Geofence transition error: invalid transition type %1$d
+    </string>
+
+    <string name="insufficient_permissions">Insufficient permissions.</string>
+    <string name="permission_rationale">Location permission is needed for core functionality</string>
+    <string name="permission_denied_explanation">Permission was denied, but is needed for core
+        functionality.</string>
+    <string name="settings">Settings</string>
+    <string name="unknown_geofence_error">
+        Unknown error: the Geofence service is not available now
+    </string>
+    <string name="geofence_not_available">Geofence service is not available now</string>
+    <string name="geofence_too_many_geofences">Your app has registered too many geofences</string>
+    <string name="geofence_too_many_pending_intents">
+        You have provided too many PendingIntents to the addGeofences() call
+    </string>
+
+    <string name="txtViewMore">
+         <u>View More</u>
+    </string>
+    <string name="txtViewLess">
+         <u>View Less</u>
+    </string>
+    <!-- Strings related to barcode scanner -->
+    <string name="ok">OK</string>
+    <string name="permission_camera_rationale">Access to the camera is needed for detection</string>
+    <string name="no_camera_permission">This application cannot run because it does not have the camera permission.  The application will now exit.</string>
+    <string name="low_storage_error">Face detector dependencies cannot be downloaded due to low device storage</string>
+
+</resources>

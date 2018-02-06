@@ -1,0 +1,193 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:id="@+id/layout_root"
+    tools:context="com.inverseapps.punchcard.ui.BadgeActivity"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="10dp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="1"
+            android:orientation="horizontal">
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:layout_weight="0.5"
+                android:padding="5dp">
+
+                <TextView
+                    android:text="Project Name : "
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="10dp"
+                    android:paddingStart="10dp"
+                    android:textSize="18sp"
+                    android:gravity="center_horizontal" />
+
+                <TextView
+                    android:text="Project Name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/lblProjectName"
+                    android:paddingLeft="10dp"
+                    android:paddingStart="10dp"
+                    android:textSize="18sp"
+                    android:gravity="center_horizontal" />
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:layout_weight="0.5"
+                android:padding="5dp">
+
+                <TextView
+                    android:text="Project Address : "
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="10dp"
+                    android:paddingStart="10dp"
+                    android:textSize="18sp"
+                    android:gravity="left" />
+
+                <TextView
+                    android:text="Project Address"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/lblProjectAddress"
+                    android:paddingLeft="10dp"
+                    android:textSize="18sp"
+                    android:paddingStart="10dp"
+                    android:gravity="left" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="1"
+            android:layout_marginTop="5dp"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.5"
+                android:gravity="center_vertical"
+                android:orientation="vertical"
+                android:padding="5dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_horizontal"
+                    android:paddingLeft="10dp"
+                    android:paddingStart="10dp"
+                    android:textSize="18sp"
+                    android:text="Company : " />
+
+                <TextView
+                    android:id="@+id/lblCompanyName"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="left"
+                    android:paddingLeft="10dp"
+                    android:textSize="18sp"
+                    android:paddingStart="10dp"
+                    android:text="Company: " />
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="left"
+                android:layout_weight="0.5"
+                android:padding="5dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="left"
+                    android:paddingStart="10dp"
+                    android:textSize="18sp"
+                    android:text="Name : " />
+
+                <TextView
+                    android:text="Name :"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/lblEmployeeName"
+                    android:paddingStart="10dp"
+                    android:textSize="18sp"
+                    android:gravity="left" />
+
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="109dp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:layout_marginTop="20dp"
+            android:orientation="horizontal"
+            android:padding="5dp">
+
+            <com.makeramen.roundedimageview.RoundedImageView
+                android:id="@+id/imgViewEmployee"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/user_placeholder"
+                app:riv_border_color="@color/background_grey"
+                app:riv_border_width="2dp"
+                app:riv_corner_radius="20dp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:padding="5dp">
+
+            <ImageView
+                android:id="@+id/imgViewBadgess"
+                android:scaleType="fitXY"
+                android:src="@drawable/loader_image"
+                android:layout_width="250dp"
+                android:layout_height="250dp" />
+
+            <TextView
+                android:text="Badge Number"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/lblBadgeNumber" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+</ScrollView>

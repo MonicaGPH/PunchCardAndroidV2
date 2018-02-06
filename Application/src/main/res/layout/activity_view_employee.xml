@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.SwipeRefreshLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.inverseapps.punchcard.ui.ViewEmployeeActivity"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/swipeRefreshLayout">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fillViewport="true">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <fragment
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/fragmentViewCompany"
+                android:name="com.inverseapps.punchcard.fragments.viewemployee.FragmentViewCompany"
+                tools:layout="@layout/fragment_view_company_info" />
+
+            <fragment
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/fragmentViewGeneralInfo"
+                android:name="com.inverseapps.punchcard.fragments.viewemployee.FragmentViewGeneralInfo"
+                tools:layout="@layout/fragment_view_general_info" />
+
+            <fragment
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/fragmentViewEmerContact"
+                android:name="com.inverseapps.punchcard.fragments.viewemployee.FragmentViewEmerContact"
+                tools:layout="@layout/fragment_view_emer_contact" />
+
+            <fragment
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/fragmentViewVehicle"
+                android:name="com.inverseapps.punchcard.fragments.viewemployee.FragmentViewVehicle"
+                tools:layout="@layout/fragment_view_vehicle" />
+        </LinearLayout>
+    </ScrollView>
+</android.support.v4.widget.SwipeRefreshLayout>

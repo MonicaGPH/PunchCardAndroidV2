@@ -1,0 +1,594 @@
+[
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\6c1d7932ce082b75c83e0ab78cf323751452010c\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\25b9d948f98d917a6a49bdbd08d1a5e16fab6158\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\6c1d7932ce082b75c83e0ab78cf323751452010c\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\cast_tracks_chooser_dialog_layout.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\5115474d3ea1d71a2e7f287408a69d5dc3901197\\output\\res\\layout\\cast_tracks_chooser_dialog_layout.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\item_past_billing_parent.xml",
+        "source": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\src\\main\\res\\layout\\item_past_billing_parent.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\mr_controller_volume_item.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\91075d733a5844ecf04e36f55bc47b06f247caa7\\output\\res\\layout\\mr_controller_volume_item.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_project_log_notes.xml",
+        "source": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\src\\main\\res\\layout\\fragment_project_log_notes.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\6c1d7932ce082b75c83e0ab78cf323751452010c\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\7c8320110f6202cf104c8b805e9b064c5a9997b5\\output\\res\\layout\\place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\6c1d7932ce082b75c83e0ab78cf323751452010c\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\6c1d7932ce082b75c83e0ab78cf323751452010c\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\25b9d948f98d917a6a49bdbd08d1a5e16fab6158\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\6c1d7932ce082b75c83e0ab78cf323751452010c\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\65fa8dfcca2a3c2cbac8b2f94ce73520d040dc7e\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_view_vehicle.xml",
+        "source": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\src\\main\\res\\layout\\fragment_view_vehicle.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\785b0ba4359306875533f5ca00fbfa59020fbf70\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\6c1d7932ce082b75c83e0ab78cf323751452010c\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\leak_canary_heap_dump_toast.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\6bd081ccec28b91ff7c84b1404a557d700e630ce\\output\\res\\layout\\leak_canary_heap_dump_toast.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\item_check_out.xml",
+        "source": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\src\\main\\res\\layout\\item_check_out.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_my_account.xml",
+        "source": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\src\\main\\res\\layout\\fragment_my_account.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\6c1d7932ce082b75c83e0ab78cf323751452010c\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\65fa8dfcca2a3c2cbac8b2f94ce73520d040dc7e\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\25b9d948f98d917a6a49bdbd08d1a5e16fab6158\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_view_company_info.xml",
+        "source": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\src\\main\\res\\layout\\fragment_view_company_info.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_show_options.xml",
+        "source": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\src\\main\\res\\layout\\activity_show_options.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\6c1d7932ce082b75c83e0ab78cf323751452010c\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\thumb_item.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\9ff380ca1f91b720f836faa864f427e7b5b5ba77\\output\\res\\layout\\thumb_item.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\25b9d948f98d917a6a49bdbd08d1a5e16fab6158\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_no_gps.xml",
+        "source": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\src\\main\\res\\layout\\dialog_no_gps.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\cast_help_text.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\5115474d3ea1d71a2e7f287408a69d5dc3901197\\output\\res\\layout\\cast_help_text.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\6c1d7932ce082b75c83e0ab78cf323751452010c\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_photo_picker.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\9ff380ca1f91b720f836faa864f427e7b5b5ba77\\output\\res\\layout\\activity_photo_picker.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_progress.xml",
+        "source": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\src\\main\\res\\layout\\dialog_progress.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_plan_detail.xml",
+        "source": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\src\\main\\res\\layout\\activity_plan_detail.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\item_log_note.xml",
+        "source": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\src\\main\\res\\layout\\item_log_note.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\header_item.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\9ff380ca1f91b720f836faa864f427e7b5b5ba77\\output\\res\\layout\\header_item.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_badge_entry.xml",
+        "source": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\src\\main\\res\\layout\\activity_badge_entry.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\barcode_capture.xml",
+        "source": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\src\\main\\res\\layout\\barcode_capture.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\mr_chooser_list_item.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\91075d733a5844ecf04e36f55bc47b06f247caa7\\output\\res\\layout\\mr_chooser_list_item.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_edit_general_info.xml",
+        "source": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\src\\main\\res\\layout\\fragment_edit_general_info.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\6c1d7932ce082b75c83e0ab78cf323751452010c\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\6c1d7932ce082b75c83e0ab78cf323751452010c\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\6c1d7932ce082b75c83e0ab78cf323751452010c\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\25b9d948f98d917a6a49bdbd08d1a5e16fab6158\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\785b0ba4359306875533f5ca00fbfa59020fbf70\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\7c8320110f6202cf104c8b805e9b064c5a9997b5\\output\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\6c1d7932ce082b75c83e0ab78cf323751452010c\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\6c1d7932ce082b75c83e0ab78cf323751452010c\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_my_punches.xml",
+        "source": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\src\\main\\res\\layout\\fragment_my_punches.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\25b9d948f98d917a6a49bdbd08d1a5e16fab6158\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_project_details.xml",
+        "source": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\src\\main\\res\\layout\\fragment_project_details.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_edit_profile.xml",
+        "source": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\src\\main\\res\\layout\\activity_edit_profile.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\6c1d7932ce082b75c83e0ab78cf323751452010c\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\mr_volume_control.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\91075d733a5844ecf04e36f55bc47b06f247caa7\\output\\res\\layout\\mr_volume_control.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_edit_primaryaddress.xml",
+        "source": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\src\\main\\res\\layout\\fragment_edit_primaryaddress.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\action_bar_layout_log.xml",
+        "source": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\src\\main\\res\\layout\\action_bar_layout_log.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\cast_expanded_controller_activity.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\5115474d3ea1d71a2e7f287408a69d5dc3901197\\output\\res\\layout\\cast_expanded_controller_activity.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\layout_choose_options.xml",
+        "source": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\src\\main\\res\\layout\\layout_choose_options.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\tooltip.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\6c1d7932ce082b75c83e0ab78cf323751452010c\\output\\res\\layout\\tooltip.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\785b0ba4359306875533f5ca00fbfa59020fbf70\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_photo_album.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\9ff380ca1f91b720f836faa864f427e7b5b5ba77\\output\\res\\layout\\activity_photo_album.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\6c1d7932ce082b75c83e0ab78cf323751452010c\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\25b9d948f98d917a6a49bdbd08d1a5e16fab6158\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_face_login.xml",
+        "source": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\src\\main\\res\\layout\\activity_face_login.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\6c1d7932ce082b75c83e0ab78cf323751452010c\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\alert_layout.xml",
+        "source": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\src\\main\\res\\layout\\alert_layout.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\item_employee.xml",
+        "source": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\src\\main\\res\\layout\\item_employee.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_project_details.xml",
+        "source": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\src\\main\\res\\layout\\activity_project_details.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\item_doubleimage.xml",
+        "source": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\src\\main\\res\\layout\\item_doubleimage.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_badge.xml",
+        "source": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\src\\main\\res\\layout\\activity_badge.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\6c1d7932ce082b75c83e0ab78cf323751452010c\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\item_past_billing_data.xml",
+        "source": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\src\\main\\res\\layout\\item_past_billing_data.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\25b9d948f98d917a6a49bdbd08d1a5e16fab6158\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\holder_empty.xml",
+        "source": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\src\\main\\res\\layout\\holder_empty.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_view_general_info.xml",
+        "source": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\src\\main\\res\\layout\\fragment_view_general_info.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_project_employees.xml",
+        "source": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\src\\main\\res\\layout\\fragment_project_employees.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\mr_playback_control.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\91075d733a5844ecf04e36f55bc47b06f247caa7\\output\\res\\layout\\mr_playback_control.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\785b0ba4359306875533f5ca00fbfa59020fbf70\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\mr_chooser_dialog.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\91075d733a5844ecf04e36f55bc47b06f247caa7\\output\\res\\layout\\mr_chooser_dialog.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\leak_canary_ref_row.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\6bd081ccec28b91ff7c84b1404a557d700e630ce\\output\\res\\layout\\leak_canary_ref_row.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_projects.xml",
+        "source": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\src\\main\\res\\layout\\fragment_projects.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\6c1d7932ce082b75c83e0ab78cf323751452010c\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\alert_layout_ca.xml",
+        "source": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\src\\main\\res\\layout\\alert_layout_ca.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\cardformlayout.xml",
+        "source": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\src\\main\\res\\layout\\cardformlayout.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_about_app.xml",
+        "source": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\src\\main\\res\\layout\\fragment_about_app.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\cast_mini_controller.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\5115474d3ea1d71a2e7f287408a69d5dc3901197\\output\\res\\layout\\cast_mini_controller.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\6c1d7932ce082b75c83e0ab78cf323751452010c\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\7c8320110f6202cf104c8b805e9b064c5a9997b5\\output\\res\\layout\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_edit_secondaryaddress.xml",
+        "source": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\src\\main\\res\\layout\\fragment_edit_secondaryaddress.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_detail_actiivy.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\9ff380ca1f91b720f836faa864f427e7b5b5ba77\\output\\res\\layout\\activity_detail_actiivy.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\6c1d7932ce082b75c83e0ab78cf323751452010c\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\cast_tracks_chooser_dialog_row_layout.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\5115474d3ea1d71a2e7f287408a69d5dc3901197\\output\\res\\layout\\cast_tracks_chooser_dialog_row_layout.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\25b9d948f98d917a6a49bdbd08d1a5e16fab6158\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_view_employee.xml",
+        "source": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\src\\main\\res\\layout\\activity_view_employee.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\6c1d7932ce082b75c83e0ab78cf323751452010c\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\65fa8dfcca2a3c2cbac8b2f94ce73520d040dc7e\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\785b0ba4359306875533f5ca00fbfa59020fbf70\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_camera_open.xml",
+        "source": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\src\\main\\res\\layout\\activity_camera_open.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_upload_image_to_server.xml",
+        "source": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\src\\main\\res\\layout\\activity_upload_image_to_server.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_change_password.xml",
+        "source": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\src\\main\\res\\layout\\activity_change_password.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_present_billing.xml",
+        "source": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\src\\main\\res\\layout\\activity_present_billing.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\25b9d948f98d917a6a49bdbd08d1a5e16fab6158\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_exception.xml",
+        "source": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\src\\main\\res\\layout\\dialog_exception.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\item_check_in.xml",
+        "source": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\src\\main\\res\\layout\\item_check_in.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_view_emer_contact.xml",
+        "source": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\src\\main\\res\\layout\\fragment_view_emer_contact.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\25b9d948f98d917a6a49bdbd08d1a5e16fab6158\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\detail_item.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\9ff380ca1f91b720f836faa864f427e7b5b5ba77\\output\\res\\layout\\detail_item.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\785b0ba4359306875533f5ca00fbfa59020fbf70\\output\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\leak_canary_leak_row.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\6bd081ccec28b91ff7c84b1404a557d700e630ce\\output\\res\\layout\\leak_canary_leak_row.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\6c1d7932ce082b75c83e0ab78cf323751452010c\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\leak_canary_display_leak.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\6bd081ccec28b91ff7c84b1404a557d700e630ce\\output\\res\\layout\\leak_canary_display_leak.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\785b0ba4359306875533f5ca00fbfa59020fbf70\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_payment_page.xml",
+        "source": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\src\\main\\res\\layout\\activity_payment_page.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\leak_canary_ref_top_row.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\6bd081ccec28b91ff7c84b1404a557d700e630ce\\output\\res\\layout\\leak_canary_ref_top_row.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_qr_scanner.xml",
+        "source": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\src\\main\\res\\layout\\activity_qr_scanner.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_another_project.xml",
+        "source": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\src\\main\\res\\layout\\dialog_another_project.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_virtual_gate.xml",
+        "source": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\src\\main\\res\\layout\\activity_virtual_gate.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\6c1d7932ce082b75c83e0ab78cf323751452010c\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_project_onsites.xml",
+        "source": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\src\\main\\res\\layout\\fragment_project_onsites.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\6c1d7932ce082b75c83e0ab78cf323751452010c\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\6c1d7932ce082b75c83e0ab78cf323751452010c\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\25b9d948f98d917a6a49bdbd08d1a5e16fab6158\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\25b9d948f98d917a6a49bdbd08d1a5e16fab6158\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\item_project.xml",
+        "source": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\src\\main\\res\\layout\\item_project.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\65fa8dfcca2a3c2cbac8b2f94ce73520d040dc7e\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_billing.xml",
+        "source": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\src\\main\\res\\layout\\activity_billing.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_edit_emer_contact.xml",
+        "source": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\src\\main\\res\\layout\\fragment_edit_emer_contact.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\item_punch.xml",
+        "source": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\src\\main\\res\\layout\\item_punch.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\item_past_billing.xml",
+        "source": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\src\\main\\res\\layout\\item_past_billing.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\6c1d7932ce082b75c83e0ab78cf323751452010c\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\6c1d7932ce082b75c83e0ab78cf323751452010c\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\album_item.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\9ff380ca1f91b720f836faa864f427e7b5b5ba77\\output\\res\\layout\\album_item.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\cast_intro_overlay.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\5115474d3ea1d71a2e7f287408a69d5dc3901197\\output\\res\\layout\\cast_intro_overlay.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\65fa8dfcca2a3c2cbac8b2f94ce73520d040dc7e\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\item_onsite.xml",
+        "source": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\src\\main\\res\\layout\\item_onsite.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\785b0ba4359306875533f5ca00fbfa59020fbf70\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\25b9d948f98d917a6a49bdbd08d1a5e16fab6158\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_edit_vehicle.xml",
+        "source": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\src\\main\\res\\layout\\fragment_edit_vehicle.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\6c1d7932ce082b75c83e0ab78cf323751452010c\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\785b0ba4359306875533f5ca00fbfa59020fbf70\\output\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\mr_controller_material_dialog_b.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\91075d733a5844ecf04e36f55bc47b06f247caa7\\output\\res\\layout\\mr_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\7c8320110f6202cf104c8b805e9b064c5a9997b5\\output\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_past_billing.xml",
+        "source": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\src\\main\\res\\layout\\activity_past_billing.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\6c1d7932ce082b75c83e0ab78cf323751452010c\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\drawer_list_item.xml",
+        "source": "E:\\Bryan Face API\\PunchCard Android v1 Deliverable\\Application\\src\\main\\res\\layout\\drawer_list_item.xml"
+    }
+]

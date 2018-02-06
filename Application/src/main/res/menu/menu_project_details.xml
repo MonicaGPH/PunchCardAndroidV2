@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.inverseapps.punchcard.ui.ProjectDetailsActivity">
+
+    <item
+        android:id="@+id/action_badge"
+        android:icon="@drawable/ic_shield"
+        app:showAsAction="always"
+        android:title="QR Scanner" />
+
+    <item
+        android:id="@+id/action_qr"
+        android:icon="@drawable/ic_qr_code"
+        app:showAsAction="always"
+        android:title="QR Scanner" />
+
+</menu>

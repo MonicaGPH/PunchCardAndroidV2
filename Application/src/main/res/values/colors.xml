@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Define your colors in `res/values/colors.xml` -->
+    <color name="simple_yellow">#ECD078</color>
+    <color name="primary_blue">#53777A</color>
+    <color name="light_blue">#ADD8E6</color>
+    <color name="black">#000000</color>
+    <color name="logo_orange">#ffcc0f</color>
+    <color name="green">#32b76b</color>
+    <color name="light_orange">#ffd742</color>
+    <color name="lighter_orange">#ffe78f</color>
+    <color name="white">#ffffff</color>
+    <color name="alpha_green">#00ff00</color>
+    <color name="off_white">#f6f6f6</color>
+    <color name="red">#FF0000</color>
+    <color name="lightRed">#eebbb1</color>
+    <color name="drawer_background">#0f0f0f</color>
+    <color name="font_black">#000000</color>
+    <color name="font_dark">#686868</color>
+    <color name="font_grey">#b8b8b8</color>
+   <color name="text_color">#484b4d</color>
+    <color name="btn_color">#69cac7</color>
+    <color name="background_grey">#E3E3E3</color>
+    <color name="background_white">#FFFFFF</color>
+    <color name="divider_line">#d4d0cf</color>
+
+</resources>

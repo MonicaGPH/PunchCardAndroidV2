@@ -1,0 +1,749 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:2:1-112:12
+	package
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml
+		INJECTED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml
+		INJECTED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml
+		INJECTED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:5:5-7:35
+MERGED from [com.google.android.gms:play-services-maps:11.0.0] C:\Users\asus\.android\build-cache\61e3da8eb6a7eda1aed07ecd975ef959112abba2\output\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:6:9-41
+	android:required
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:7:9-32
+uses-feature#android.hardware.camera
+ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:8:5-60
+	android:name
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:8:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:9:5-70
+	android:name
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:9:19-67
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.INTERNET
+ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:12:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.0] C:\Users\asus\.android\build-cache\750375051aa108344dfa64124e65986caf469284\output\AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-analytics:11.0.0] C:\Users\asus\.android\build-cache\bcfa7696b2fd86bf0553466d52a637de731a0b1b\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.0] C:\Users\asus\.android\build-cache\cdbbbb632f4cf9752f50ae4cf4b4174c48b7ef8a\output\AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:11.0.0] C:\Users\asus\.android\build-cache\d1f583c07ab37768ebd840234e79d5d6a4416250\output\AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-gcm:11.0.0] C:\Users\asus\.android\build-cache\f35027da60c4d98044cc3430f75503a638d9069a\output\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:11.0.0] C:\Users\asus\.android\build-cache\a43796d3294c38b07b77440d06ffd016255d7264\output\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.0] C:\Users\asus\.android\build-cache\86b749dccbdc933c7c2d7463f8f304f42ad39865\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\asus\.android\build-cache\e13461cd268b590a43a1260a9337642869dc8571\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] C:\Users\asus\.android\build-cache\f0dbdd4151c427101ea2b9d65cf79a163f943487\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\asus\.android\build-cache\659f46694f16204394601ad4ba20c9bb1c3aabf7\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.0] C:\Users\asus\.android\build-cache\f6a56f9e82f528d540991d37ae0f2b42eba719c2\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:11.0.0] C:\Users\asus\.android\build-cache\61e3da8eb6a7eda1aed07ecd975ef959112abba2\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.0] C:\Users\asus\.android\build-cache\750375051aa108344dfa64124e65986caf469284\output\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-analytics:11.0.0] C:\Users\asus\.android\build-cache\bcfa7696b2fd86bf0553466d52a637de731a0b1b\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-nearby:11.0.0] C:\Users\asus\.android\build-cache\b40fb85bf63d57ed11b14ee77c48b830b3c3acc8\output\AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.0] C:\Users\asus\.android\build-cache\86b749dccbdc933c7c2d7463f8f304f42ad39865\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\asus\.android\build-cache\e13461cd268b590a43a1260a9337642869dc8571\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] C:\Users\asus\.android\build-cache\f0dbdd4151c427101ea2b9d65cf79a163f943487\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\asus\.android\build-cache\659f46694f16204394601ad4ba20c9bb1c3aabf7\output\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.0] C:\Users\asus\.android\build-cache\f6a56f9e82f528d540991d37ae0f2b42eba719c2\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-maps:11.0.0] C:\Users\asus\.android\build-cache\61e3da8eb6a7eda1aed07ecd975ef959112abba2\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:14:5-81
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.5] C:\Users\asus\.android\build-cache\6bd081ccec28b91ff7c84b1404a557d700e630ce\output\AndroidManifest.xml:26:5-81
+	android:name
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:15:22-78
+uses-permission#android.permission.WAKE_LOCK
+ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:16:5-68
+MERGED from [com.google.android.gms:play-services-analytics:11.0.0] C:\Users\asus\.android\build-cache\bcfa7696b2fd86bf0553466d52a637de731a0b1b\output\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\asus\.android\build-cache\e13461cd268b590a43a1260a9337642869dc8571\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] C:\Users\asus\.android\build-cache\f0dbdd4151c427101ea2b9d65cf79a163f943487\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\asus\.android\build-cache\659f46694f16204394601ad4ba20c9bb1c3aabf7\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.0] C:\Users\asus\.android\build-cache\f6a56f9e82f528d540991d37ae0f2b42eba719c2\output\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:16:22-65
+uses-permission#android.permission.VIBRATE
+ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:17:5-66
+	android:name
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:17:22-63
+uses-permission#android.permission.CAMERA
+ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:18:5-65
+	android:name
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:18:22-62
+application
+ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:20:5-110:19
+MERGED from [com.android.support:support-v13:25.1.0] C:\Users\asus\.android\build-cache\3988bbf9481b1dc35fc0495194c5e0785d6aabe7\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:cardview-v7:25.1.0] C:\Users\asus\.android\build-cache\e79cbbdd8cb143e5a273d5f3b3281ba39a377a43\output\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services:11.0.0] C:\Users\asus\.android\build-cache\c1667b6949883f7223d42b601bd393610d28fd5c\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.0] C:\Users\asus\.android\build-cache\750375051aa108344dfa64124e65986caf469284\output\AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-analytics:11.0.0] C:\Users\asus\.android\build-cache\bcfa7696b2fd86bf0553466d52a637de731a0b1b\output\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.0] C:\Users\asus\.android\build-cache\cdbbbb632f4cf9752f50ae4cf4b4174c48b7ef8a\output\AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-auth:11.0.0] C:\Users\asus\.android\build-cache\7d6f4d3874707a01557e80dcd6b9ea7aada04f0d\output\AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-cast-framework:11.0.0] C:\Users\asus\.android\build-cache\5115474d3ea1d71a2e7f287408a69d5dc3901197\output\AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast:11.0.0] C:\Users\asus\.android\build-cache\2caf5ac004dd709ef9074e0fa305c6af4bdc2cf6\output\AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:mediarouter-v7:25.2.0] C:\Users\asus\.android\build-cache\91075d733a5844ecf04e36f55bc47b06f247caa7\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\asus\.android\build-cache\bbde7a5c11006d39b8d25c96fd399cca1f28ece3\output\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.0] C:\Users\asus\.android\build-cache\3a1cbbbc3423b320e87596dbd2fce39287bce1aa\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:11.0.0] C:\Users\asus\.android\build-cache\1e0b89479c500412e439ad9d099583cd48b5b3ff\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:11.0.0] C:\Users\asus\.android\build-cache\ccc99cd1cf701289943466476e93c4b9495e31d9\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-crash:11.0.0] C:\Users\asus\.android\build-cache\d1f583c07ab37768ebd840234e79d5d6a4416250\output\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-auth:11.0.0] C:\Users\asus\.android\build-cache\2e85768b095f07b5bf86e5e3bd999b7f37131772\output\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-dynamic-links:11.0.0] C:\Users\asus\.android\build-cache\f20da5263e904e9549b9d8d31b83351e69143adc\output\AndroidManifest.xml:5:3-17
+MERGED from [com.google.firebase:firebase-messaging:11.0.0] C:\Users\asus\.android\build-cache\63b6a565bf41c6a7fb4667b6d259bdaa866a8b84\output\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.android.gms:play-services-fitness:11.0.0] C:\Users\asus\.android\build-cache\a7395d04c1a2b6b71559e54480253be47ad92184\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:11.0.0] C:\Users\asus\.android\build-cache\886c540d0dc6883a30e84b798f6c1c44fe11d270\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:11.0.0] C:\Users\asus\.android\build-cache\a899f32862775673738e3ec534c76b3f60a62d42\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gass:11.0.0] C:\Users\asus\.android\build-cache\65f3fb0108e5067b629c7ad2120ed2c957b8e77f\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gcm:11.0.0] C:\Users\asus\.android\build-cache\f35027da60c4d98044cc3430f75503a638d9069a\output\AndroidManifest.xml:23:5-19
+MERGED from [com.google.firebase:firebase-appindexing:11.0.0] C:\Users\asus\.android\build-cache\96b4ea0ab05d6e840a978a57005942ded06fc212\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-iid:11.0.0] C:\Users\asus\.android\build-cache\a43796d3294c38b07b77440d06ffd016255d7264\output\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-nearby:11.0.0] C:\Users\asus\.android\build-cache\b40fb85bf63d57ed11b14ee77c48b830b3c3acc8\output\AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-panorama:11.0.0] C:\Users\asus\.android\build-cache\e802d351a80def846ec6a1a3b71ec92905c052ef\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:11.0.0] C:\Users\asus\.android\build-cache\7c8320110f6202cf104c8b805e9b064c5a9997b5\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:11.0.0] C:\Users\asus\.android\build-cache\3db760ea6bb3751938d105345e2cadf9180b900e\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.0] C:\Users\asus\.android\build-cache\7bdac0f075be71d52fa9b75efdb074a1f199fa79\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.0] C:\Users\asus\.android\build-cache\86b749dccbdc933c7c2d7463f8f304f42ad39865\output\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\asus\.android\build-cache\e13461cd268b590a43a1260a9337642869dc8571\output\AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] C:\Users\asus\.android\build-cache\f0dbdd4151c427101ea2b9d65cf79a163f943487\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\asus\.android\build-cache\659f46694f16204394601ad4ba20c9bb1c3aabf7\output\AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:11.0.0] C:\Users\asus\.android\build-cache\1e1c2c82ade72a27b2e0aef6490db6775ef32bed\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.0] C:\Users\asus\.android\build-cache\b5ffa5b4a687f1bd66f8aff47805464fb6447f37\output\AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.0] C:\Users\asus\.android\build-cache\f6a56f9e82f528d540991d37ae0f2b42eba719c2\output\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-vision:11.0.0] C:\Users\asus\.android\build-cache\8a6f9fb341bba80866ae8773cfd570ecafdbdba6\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.0] C:\Users\asus\.android\build-cache\97129e3217a6adc41947adacc3b4eb6962cb5666\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-identity:11.0.0] C:\Users\asus\.android\build-cache\7261c8799d43c6d7bd58e427d3fc4a34a133ab2d\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:11.0.0] C:\Users\asus\.android\build-cache\61e3da8eb6a7eda1aed07ecd975ef959112abba2\output\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-wearable:11.0.0] C:\Users\asus\.android\build-cache\c1eefe26ebf2fe48abf07f02f02f9f4ede445baf\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-location:11.0.0] C:\Users\asus\.android\build-cache\82bb2f6cf102f4e5a6966ea4b62e2adf4d4925c6\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.0] C:\Users\asus\.android\build-cache\014ad7a65331b101aa10376bd678d497eac520ef\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.0] C:\Users\asus\.android\build-cache\375daad342f7c4b5b2e07103b72d421401186758\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.0] C:\Users\asus\.android\build-cache\f865ac852e2afe9329610a87ff9ed1b717919a47\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.sangcomz:FishBun:0.7.7] C:\Users\asus\.android\build-cache\9ff380ca1f91b720f836faa864f427e7b5b5ba77\output\AndroidManifest.xml:11:5-32:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\asus\.android\build-cache\25b9d948f98d917a6a49bdbd08d1a5e16fab6158\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\asus\.android\build-cache\6c1d7932ce082b75c83e0ab78cf323751452010c\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\asus\.android\build-cache\3ea6170f3f79df6702fcf23fec36595ffe430191\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\asus\.android\build-cache\92d24f60dd0e2a3f6cc73552fae0fb6b252fd7c1\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\asus\.android\build-cache\56afd9c6fc8da988cf86d259d991d92fea347e82\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\asus\.android\build-cache\e5f480d1c16f8f1aa7a3624595ae9bf662e99521\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\asus\.android\build-cache\785b0ba4359306875533f5ca00fbfa59020fbf70\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\asus\.android\build-cache\5fde72dc2c745de6f09bc52f6253e41e6b8d4b5a\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\asus\.android\build-cache\418d2b2d08834b7c89ee2de1c728789c36102630\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\asus\.android\build-cache\7d8b7573b4d53fc59759eaacd5eed11acf667c0b\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\asus\.android\build-cache\41a5150a3d1d19d536a735ccb8563a94e8173c53\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\asus\.android\build-cache\65fa8dfcca2a3c2cbac8b2f94ce73520d040dc7e\output\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\asus\.android\build-cache\3415a07d72596ae7cfa37f3b08ea362c452c187e\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\asus\.android\build-cache\5d0451a3ff1392ab85e4b7f2e1bd61e47ffddbe6\output\AndroidManifest.xml:9:5-20
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.5] C:\Users\asus\.android\build-cache\6bd081ccec28b91ff7c84b1404a557d700e630ce\output\AndroidManifest.xml:28:5-57:19
+	android:label
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:24:9-41
+	android:allowBackup
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:22:9-35
+	android:icon
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:23:9-45
+	android:theme
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:25:9-40
+	android:name
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:21:9-51
+meta-data#com.google.android.gms.version
+ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:26:9-28:69
+MERGED from [com.google.android.gms:play-services-basement:11.0.0] C:\Users\asus\.android\build-cache\f865ac852e2afe9329610a87ff9ed1b717919a47\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:28:13-66
+	android:name
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:27:13-58
+meta-data#com.google.android.geo.API_KEY
+ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:29:9-31:71
+	android:value
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:31:13-68
+	android:name
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:30:13-58
+meta-data#com.google.android.gms.vision.DEPENDENCIES
+ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:32:9-34:39
+	android:value
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:34:13-36
+	android:name
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:33:13-70
+activity#com.inverseapps.punchcard.ui.SplashActivity
+ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:36:9-45:20
+	android:label
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:38:13-58
+	android:theme
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:39:13-56
+	android:name
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:37:13-46
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:40:13-44:29
+action#android.intent.action.MAIN
+ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:41:17-69
+	android:name
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:41:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:43:17-77
+	android:name
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:43:27-74
+activity#com.inverseapps.punchcard.ui.LoginActivity
+ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:46:9-51:76
+	android:label
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:49:13-57
+	android:windowSoftInputMode
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:51:13-73
+	android:configChanges
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:48:13-74
+	android:theme
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:50:13-56
+	android:name
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:47:13-45
+activity#com.inverseapps.punchcard.ui.HomeActivity
+ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:52:9-54:48
+	android:label
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:54:13-45
+	android:name
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:53:13-44
+activity#com.inverseapps.punchcard.ui.ProjectDetailsActivity
+ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:55:9-59:76
+	android:label
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:58:13-67
+	android:windowSoftInputMode
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:59:13-73
+	android:configChanges
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:57:13-74
+	android:name
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:56:13-54
+activity#com.inverseapps.punchcard.ui.BadgeActivity
+ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:60:9-54
+	android:name
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:60:19-51
+activity#com.inverseapps.punchcard.ui.VirtualGateActivity
+ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:61:9-60
+	android:name
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:61:19-57
+activity#com.inverseapps.punchcard.ui.BillingStatusActivity
+ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:62:9-62
+	android:name
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:62:19-59
+activity#com.inverseapps.punchcard.ui.PastBillingActivity
+ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:63:9-60
+	android:name
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:63:19-57
+activity#com.inverseapps.punchcard.ui.PresentBillingActivity
+ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:64:9-63
+	android:name
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:64:19-60
+activity#com.inverseapps.punchcard.ui.UpgradePlanActivity
+ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:65:9-60
+	android:name
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:65:19-57
+activity#com.inverseapps.punchcard.ui.PlanDetailActivity
+ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:66:9-59
+	android:name
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:66:19-56
+activity#com.inverseapps.punchcard.ui.PastBillingExtendActivity
+ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:67:9-66
+	android:name
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:67:19-63
+activity#com.inverseapps.punchcard.ui.BadgeEntryActivity
+ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:68:9-71:76
+	android:windowSoftInputMode
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:71:13-73
+	android:configChanges
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:70:13-74
+	android:name
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:69:13-50
+activity#com.inverseapps.punchcard.ui.QRScannerActivity
+ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:72:9-58
+	android:name
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:72:19-55
+activity#com.inverseapps.punchcard.ui.ImageCaptureActivity
+ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:73:9-61
+	android:name
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:73:19-58
+activity#com.inverseapps.punchcard.utils.barcode.BarcodeCaptureActivity
+ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:74:9-76:66
+	android:theme
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:76:13-63
+	android:name
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:75:13-65
+activity#com.inverseapps.punchcard.ui.EditProfileActivity
+ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:77:9-80:76
+	android:windowSoftInputMode
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:80:13-73
+	android:configChanges
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:79:13-74
+	android:name
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:78:13-51
+activity#com.inverseapps.punchcard.ui.PaymentActivity
+ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:81:9-83:58
+	android:windowSoftInputMode
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:83:13-55
+	android:name
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:82:13-47
+activity#com.inverseapps.punchcard.ui.ViewEmployeeActivity
+ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:85:9-61
+	android:name
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:85:19-58
+activity#com.inverseapps.punchcard.ui.ChangePasswordActivity
+ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:87:9-90:76
+	android:windowSoftInputMode
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:90:13-73
+	android:configChanges
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:89:13-74
+	android:name
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:88:13-54
+activity#com.inverseapps.punchcard.ui.UploadImage
+ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:91:9-94:76
+	android:windowSoftInputMode
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:94:13-73
+	android:configChanges
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:93:13-74
+	android:name
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:92:13-43
+activity#com.inverseapps.punchcard.ui.FaceRecognitionActivity
+ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:95:9-98:76
+	android:windowSoftInputMode
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:98:13-73
+	android:configChanges
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:97:13-74
+	android:name
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:96:13-55
+activity#com.inverseapps.punchcard.ui.ChooseOptionActivity
+ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:99:9-102:76
+	android:windowSoftInputMode
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:102:13-73
+	android:configChanges
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:101:13-74
+	android:name
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:100:13-52
+service#com.inverseapps.punchcard.service.GeofenceTransitionsIntentService
+ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:104:9-77
+	android:name
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:104:18-74
+service#com.inverseapps.punchcard.service.GeoPunchService
+ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:105:9-60
+	android:name
+		ADDED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:105:18-57
+uses-sdk
+INJECTED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\asus\.android\build-cache\668d75626541168400b1fd2849712e6cd1145859\output\AndroidManifest.xml:18:5-42
+MERGED from [com.orhanobut:logger:1.15] C:\Users\asus\.android\build-cache\1216e788416c073434cf64c666f694687ab51661\output\AndroidManifest.xml:6:5-43
+MERGED from [com.android.support:support-v13:25.1.0] C:\Users\asus\.android\build-cache\3988bbf9481b1dc35fc0495194c5e0785d6aabe7\output\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:cardview-v7:25.1.0] C:\Users\asus\.android\build-cache\e79cbbdd8cb143e5a273d5f3b3281ba39a377a43\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services:11.0.0] C:\Users\asus\.android\build-cache\c1667b6949883f7223d42b601bd393610d28fd5c\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads:11.0.0] C:\Users\asus\.android\build-cache\0bd70f45ae2edd797f45070d5cdfdaad632a4bb5\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.0] C:\Users\asus\.android\build-cache\750375051aa108344dfa64124e65986caf469284\output\AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-analytics:11.0.0] C:\Users\asus\.android\build-cache\bcfa7696b2fd86bf0553466d52a637de731a0b1b\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.0] C:\Users\asus\.android\build-cache\cdbbbb632f4cf9752f50ae4cf4b4174c48b7ef8a\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.0.0] C:\Users\asus\.android\build-cache\6b55734df62846cc3390c80b24b813db855aab58\output\AndroidManifest.xml:3:3-41
+MERGED from [com.google.android.gms:play-services-auth:11.0.0] C:\Users\asus\.android\build-cache\7d6f4d3874707a01557e80dcd6b9ea7aada04f0d\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:11.0.0] C:\Users\asus\.android\build-cache\4c7982db94829b41ba7be259b81c70e328e45d48\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:11.0.0] C:\Users\asus\.android\build-cache\5115474d3ea1d71a2e7f287408a69d5dc3901197\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-cast:11.0.0] C:\Users\asus\.android\build-cache\2caf5ac004dd709ef9074e0fa305c6af4bdc2cf6\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:mediarouter-v7:25.2.0] C:\Users\asus\.android\build-cache\91075d733a5844ecf04e36f55bc47b06f247caa7\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\asus\.android\build-cache\bbde7a5c11006d39b8d25c96fd399cca1f28ece3\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.0] C:\Users\asus\.android\build-cache\3a1cbbbc3423b320e87596dbd2fce39287bce1aa\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-config:11.0.0] C:\Users\asus\.android\build-cache\1e0b89479c500412e439ad9d099583cd48b5b3ff\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-awareness:11.0.0] C:\Users\asus\.android\build-cache\ccc99cd1cf701289943466476e93c4b9495e31d9\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-crash:11.0.0] C:\Users\asus\.android\build-cache\d1f583c07ab37768ebd840234e79d5d6a4416250\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-auth:11.0.0] C:\Users\asus\.android\build-cache\2e85768b095f07b5bf86e5e3bd999b7f37131772\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database:11.0.0] C:\Users\asus\.android\build-cache\1513284cf3e3c5a9f919d32b28af6eba78230e1d\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.0.0] C:\Users\asus\.android\build-cache\7a05cae863fdecf48df2e02d80b7c2fcdeae792d\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-dynamic-links:11.0.0] C:\Users\asus\.android\build-cache\f20da5263e904e9549b9d8d31b83351e69143adc\output\AndroidManifest.xml:3:3-41
+MERGED from [com.google.firebase:firebase-messaging:11.0.0] C:\Users\asus\.android\build-cache\63b6a565bf41c6a7fb4667b6d259bdaa866a8b84\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-storage:11.0.0] C:\Users\asus\.android\build-cache\5f85ad8db4b088f54014f29f55f2787fbb247306\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:11.0.0] C:\Users\asus\.android\build-cache\6f248c70fe4b751302eb15058ff083d723fe49e7\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-fitness:11.0.0] C:\Users\asus\.android\build-cache\a7395d04c1a2b6b71559e54480253be47ad92184\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-games:11.0.0] C:\Users\asus\.android\build-cache\886c540d0dc6883a30e84b798f6c1c44fe11d270\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-drive:11.0.0] C:\Users\asus\.android\build-cache\a899f32862775673738e3ec534c76b3f60a62d42\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.0.0] C:\Users\asus\.android\build-cache\65f3fb0108e5067b629c7ad2120ed2c957b8e77f\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gcm:11.0.0] C:\Users\asus\.android\build-cache\f35027da60c4d98044cc3430f75503a638d9069a\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-appindexing:11.0.0] C:\Users\asus\.android\build-cache\96b4ea0ab05d6e840a978a57005942ded06fc212\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:11.0.0] C:\Users\asus\.android\build-cache\a43796d3294c38b07b77440d06ffd016255d7264\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-instantapps:11.0.0] C:\Users\asus\.android\build-cache\d6e49f67531e58a6d20ad47a27417ff529976057\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-nearby:11.0.0] C:\Users\asus\.android\build-cache\b40fb85bf63d57ed11b14ee77c48b830b3c3acc8\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-panorama:11.0.0] C:\Users\asus\.android\build-cache\e802d351a80def846ec6a1a3b71ec92905c052ef\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-places:11.0.0] C:\Users\asus\.android\build-cache\7c8320110f6202cf104c8b805e9b064c5a9997b5\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-plus:11.0.0] C:\Users\asus\.android\build-cache\3db760ea6bb3751938d105345e2cadf9180b900e\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.0] C:\Users\asus\.android\build-cache\7bdac0f075be71d52fa9b75efdb074a1f199fa79\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager:11.0.0] C:\Users\asus\.android\build-cache\62268ca236a794a27a04c6bf14501da33358dfab\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.0] C:\Users\asus\.android\build-cache\86b749dccbdc933c7c2d7463f8f304f42ad39865\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\asus\.android\build-cache\e13461cd268b590a43a1260a9337642869dc8571\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] C:\Users\asus\.android\build-cache\f0dbdd4151c427101ea2b9d65cf79a163f943487\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\asus\.android\build-cache\659f46694f16204394601ad4ba20c9bb1c3aabf7\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.0] C:\Users\asus\.android\build-cache\1e1c2c82ade72a27b2e0aef6490db6775ef32bed\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.0] C:\Users\asus\.android\build-cache\b5ffa5b4a687f1bd66f8aff47805464fb6447f37\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.0] C:\Users\asus\.android\build-cache\f6a56f9e82f528d540991d37ae0f2b42eba719c2\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-vision:11.0.0] C:\Users\asus\.android\build-cache\8a6f9fb341bba80866ae8773cfd570ecafdbdba6\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.0] C:\Users\asus\.android\build-cache\97129e3217a6adc41947adacc3b4eb6962cb5666\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-wallet:11.0.0] C:\Users\asus\.android\build-cache\f320aee8f07b9701bdd33ad993394e975ead4033\output\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-identity:11.0.0] C:\Users\asus\.android\build-cache\7261c8799d43c6d7bd58e427d3fc4a34a133ab2d\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.0.0] C:\Users\asus\.android\build-cache\61e3da8eb6a7eda1aed07ecd975ef959112abba2\output\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-wearable:11.0.0] C:\Users\asus\.android\build-cache\c1eefe26ebf2fe48abf07f02f02f9f4ede445baf\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-location:11.0.0] C:\Users\asus\.android\build-cache\82bb2f6cf102f4e5a6966ea4b62e2adf4d4925c6\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.0] C:\Users\asus\.android\build-cache\014ad7a65331b101aa10376bd678d497eac520ef\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.0] C:\Users\asus\.android\build-cache\375daad342f7c4b5b2e07103b72d421401186758\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.0] C:\Users\asus\.android\build-cache\f865ac852e2afe9329610a87ff9ed1b717919a47\output\AndroidManifest.xml:17:5-43
+MERGED from [com.jakewharton:butterknife:8.4.0] C:\Users\asus\.android\build-cache\0e6269ce6bcfbbaa3668c544536ebad77d4056eb\output\AndroidManifest.xml:5:5-43
+MERGED from [com.makeramen:roundedimageview:2.2.1] C:\Users\asus\.android\build-cache\6171671ce42333ae5a888f47ce89b1d5bd90db96\output\AndroidManifest.xml:7:5-43
+MERGED from [id.zelory:compressor:2.1.0] C:\Users\asus\.android\build-cache\10bea5901157a28263e9868eb4af08b59e2067cb\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.sangcomz:FishBun:0.7.7] C:\Users\asus\.android\build-cache\9ff380ca1f91b720f836faa864f427e7b5b5ba77\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:26.1.0] C:\Users\asus\.android\build-cache\25b9d948f98d917a6a49bdbd08d1a5e16fab6158\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\asus\.android\build-cache\6c1d7932ce082b75c83e0ab78cf323751452010c\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\asus\.android\build-cache\3ea6170f3f79df6702fcf23fec36595ffe430191\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\asus\.android\build-cache\92d24f60dd0e2a3f6cc73552fae0fb6b252fd7c1\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\asus\.android\build-cache\56afd9c6fc8da988cf86d259d991d92fea347e82\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\asus\.android\build-cache\e5f480d1c16f8f1aa7a3624595ae9bf662e99521\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\asus\.android\build-cache\785b0ba4359306875533f5ca00fbfa59020fbf70\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\asus\.android\build-cache\5fde72dc2c745de6f09bc52f6253e41e6b8d4b5a\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\asus\.android\build-cache\418d2b2d08834b7c89ee2de1c728789c36102630\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\asus\.android\build-cache\7d8b7573b4d53fc59759eaacd5eed11acf667c0b\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\asus\.android\build-cache\41a5150a3d1d19d536a735ccb8563a94e8173c53\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\asus\.android\build-cache\65fa8dfcca2a3c2cbac8b2f94ce73520d040dc7e\output\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\asus\.android\build-cache\3415a07d72596ae7cfa37f3b08ea362c452c187e\output\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\asus\.android\build-cache\5d0451a3ff1392ab85e4b7f2e1bd61e47ffddbe6\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.5] C:\Users\asus\.android\build-cache\6bd081ccec28b91ff7c84b1404a557d700e630ce\output\AndroidManifest.xml:20:5-22:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v13:25.1.0] C:\Users\asus\.android\build-cache\3988bbf9481b1dc35fc0495194c5e0785d6aabe7\output\AndroidManifest.xml:23:9-52
+	android:targetSdkVersion
+		INJECTED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml
+		INJECTED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml
+		INJECTED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:11.0.0] C:\Users\asus\.android\build-cache\750375051aa108344dfa64124e65986caf469284\output\AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.0] C:\Users\asus\.android\build-cache\750375051aa108344dfa64124e65986caf469284\output\AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.0] C:\Users\asus\.android\build-cache\750375051aa108344dfa64124e65986caf469284\output\AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.0] C:\Users\asus\.android\build-cache\750375051aa108344dfa64124e65986caf469284\output\AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.0] C:\Users\asus\.android\build-cache\cdbbbb632f4cf9752f50ae4cf4b4174c48b7ef8a\output\AndroidManifest.xml:20:9-25:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.0] C:\Users\asus\.android\build-cache\cdbbbb632f4cf9752f50ae4cf4b4174c48b7ef8a\output\AndroidManifest.xml:20:51-74
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.0] C:\Users\asus\.android\build-cache\cdbbbb632f4cf9752f50ae4cf4b4174c48b7ef8a\output\AndroidManifest.xml:20:75-121
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.0] C:\Users\asus\.android\build-cache\cdbbbb632f4cf9752f50ae4cf4b4174c48b7ef8a\output\AndroidManifest.xml:20:19-50
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.0] C:\Users\asus\.android\build-cache\cdbbbb632f4cf9752f50ae4cf4b4174c48b7ef8a\output\AndroidManifest.xml:21:13-24:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.0] C:\Users\asus\.android\build-cache\cdbbbb632f4cf9752f50ae4cf4b4174c48b7ef8a\output\AndroidManifest.xml:22:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.0] C:\Users\asus\.android\build-cache\cdbbbb632f4cf9752f50ae4cf4b4174c48b7ef8a\output\AndroidManifest.xml:22:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.0] C:\Users\asus\.android\build-cache\cdbbbb632f4cf9752f50ae4cf4b4174c48b7ef8a\output\AndroidManifest.xml:23:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.0] C:\Users\asus\.android\build-cache\cdbbbb632f4cf9752f50ae4cf4b4174c48b7ef8a\output\AndroidManifest.xml:23:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:11.0.0] C:\Users\asus\.android\build-cache\7d6f4d3874707a01557e80dcd6b9ea7aada04f0d\output\AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:11.0.0] C:\Users\asus\.android\build-cache\7d6f4d3874707a01557e80dcd6b9ea7aada04f0d\output\AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.0] C:\Users\asus\.android\build-cache\7d6f4d3874707a01557e80dcd6b9ea7aada04f0d\output\AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:11.0.0] C:\Users\asus\.android\build-cache\7d6f4d3874707a01557e80dcd6b9ea7aada04f0d\output\AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.0] C:\Users\asus\.android\build-cache\7d6f4d3874707a01557e80dcd6b9ea7aada04f0d\output\AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:11.0.0] C:\Users\asus\.android\build-cache\7d6f4d3874707a01557e80dcd6b9ea7aada04f0d\output\AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.0] C:\Users\asus\.android\build-cache\7d6f4d3874707a01557e80dcd6b9ea7aada04f0d\output\AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:11.0.0] C:\Users\asus\.android\build-cache\7d6f4d3874707a01557e80dcd6b9ea7aada04f0d\output\AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.0] C:\Users\asus\.android\build-cache\7d6f4d3874707a01557e80dcd6b9ea7aada04f0d\output\AndroidManifest.xml:24:18-63
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:11.0.0] C:\Users\asus\.android\build-cache\5115474d3ea1d71a2e7f287408a69d5dc3901197\output\AndroidManifest.xml:5:9-99
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.0.0] C:\Users\asus\.android\build-cache\5115474d3ea1d71a2e7f287408a69d5dc3901197\output\AndroidManifest.xml:5:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:11.0.0] C:\Users\asus\.android\build-cache\5115474d3ea1d71a2e7f287408a69d5dc3901197\output\AndroidManifest.xml:6:9-103
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.0.0] C:\Users\asus\.android\build-cache\5115474d3ea1d71a2e7f287408a69d5dc3901197\output\AndroidManifest.xml:6:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:11.0.0] C:\Users\asus\.android\build-cache\5115474d3ea1d71a2e7f287408a69d5dc3901197\output\AndroidManifest.xml:7:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.0.0] C:\Users\asus\.android\build-cache\5115474d3ea1d71a2e7f287408a69d5dc3901197\output\AndroidManifest.xml:7:18-90
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:11.0.0] C:\Users\asus\.android\build-cache\63b6a565bf41c6a7fb4667b6d259bdaa866a8b84\output\AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:11.0.0] C:\Users\asus\.android\build-cache\63b6a565bf41c6a7fb4667b6d259bdaa866a8b84\output\AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.0.0] C:\Users\asus\.android\build-cache\63b6a565bf41c6a7fb4667b6d259bdaa866a8b84\output\AndroidManifest.xml:23:18-87
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.0.0] C:\Users\asus\.android\build-cache\63b6a565bf41c6a7fb4667b6d259bdaa866a8b84\output\AndroidManifest.xml:24:13-26:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:11.0.0] C:\Users\asus\.android\build-cache\63b6a565bf41c6a7fb4667b6d259bdaa866a8b84\output\AndroidManifest.xml:24:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.0.0] C:\Users\asus\.android\build-cache\63b6a565bf41c6a7fb4667b6d259bdaa866a8b84\output\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.0.0] C:\Users\asus\.android\build-cache\63b6a565bf41c6a7fb4667b6d259bdaa866a8b84\output\AndroidManifest.xml:25:25-75
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:11.0.0] C:\Users\asus\.android\build-cache\f35027da60c4d98044cc3430f75503a638d9069a\output\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:11.0.0] C:\Users\asus\.android\build-cache\a43796d3294c38b07b77440d06ffd016255d7264\output\AndroidManifest.xml:20:5-81
+MERGED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\asus\.android\build-cache\659f46694f16204394601ad4ba20c9bb1c3aabf7\output\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:11.0.0] C:\Users\asus\.android\build-cache\f35027da60c4d98044cc3430f75503a638d9069a\output\AndroidManifest.xml:20:22-79
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.0] C:\Users\asus\.android\build-cache\86b749dccbdc933c7c2d7463f8f304f42ad39865\output\AndroidManifest.xml:24:9-134
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.0] C:\Users\asus\.android\build-cache\86b749dccbdc933c7c2d7463f8f304f42ad39865\output\AndroidManifest.xml:24:110-132
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.0] C:\Users\asus\.android\build-cache\86b749dccbdc933c7c2d7463f8f304f42ad39865\output\AndroidManifest.xml:24:85-109
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.0] C:\Users\asus\.android\build-cache\86b749dccbdc933c7c2d7463f8f304f42ad39865\output\AndroidManifest.xml:24:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.0] C:\Users\asus\.android\build-cache\86b749dccbdc933c7c2d7463f8f304f42ad39865\output\AndroidManifest.xml:25:9-32:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.0] C:\Users\asus\.android\build-cache\86b749dccbdc933c7c2d7463f8f304f42ad39865\output\AndroidManifest.xml:25:94-117
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.0] C:\Users\asus\.android\build-cache\86b749dccbdc933c7c2d7463f8f304f42ad39865\output\AndroidManifest.xml:25:118-142
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.0] C:\Users\asus\.android\build-cache\86b749dccbdc933c7c2d7463f8f304f42ad39865\output\AndroidManifest.xml:25:19-93
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.0] C:\Users\asus\.android\build-cache\86b749dccbdc933c7c2d7463f8f304f42ad39865\output\AndroidManifest.xml:26:13-31:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.0] C:\Users\asus\.android\build-cache\86b749dccbdc933c7c2d7463f8f304f42ad39865\output\AndroidManifest.xml:27:17-71
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.0] C:\Users\asus\.android\build-cache\86b749dccbdc933c7c2d7463f8f304f42ad39865\output\AndroidManifest.xml:27:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.0] C:\Users\asus\.android\build-cache\86b749dccbdc933c7c2d7463f8f304f42ad39865\output\AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.0] C:\Users\asus\.android\build-cache\86b749dccbdc933c7c2d7463f8f304f42ad39865\output\AndroidManifest.xml:28:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.0] C:\Users\asus\.android\build-cache\86b749dccbdc933c7c2d7463f8f304f42ad39865\output\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.0] C:\Users\asus\.android\build-cache\86b749dccbdc933c7c2d7463f8f304f42ad39865\output\AndroidManifest.xml:30:27-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\asus\.android\build-cache\e13461cd268b590a43a1260a9337642869dc8571\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] C:\Users\asus\.android\build-cache\f0dbdd4151c427101ea2b9d65cf79a163f943487\output\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\asus\.android\build-cache\e13461cd268b590a43a1260a9337642869dc8571\output\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\asus\.android\build-cache\e13461cd268b590a43a1260a9337642869dc8571\output\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\asus\.android\build-cache\e13461cd268b590a43a1260a9337642869dc8571\output\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\asus\.android\build-cache\e13461cd268b590a43a1260a9337642869dc8571\output\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\asus\.android\build-cache\e13461cd268b590a43a1260a9337642869dc8571\output\AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\asus\.android\build-cache\e13461cd268b590a43a1260a9337642869dc8571\output\AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\asus\.android\build-cache\e13461cd268b590a43a1260a9337642869dc8571\output\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\asus\.android\build-cache\e13461cd268b590a43a1260a9337642869dc8571\output\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\asus\.android\build-cache\e13461cd268b590a43a1260a9337642869dc8571\output\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\asus\.android\build-cache\e13461cd268b590a43a1260a9337642869dc8571\output\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\asus\.android\build-cache\e13461cd268b590a43a1260a9337642869dc8571\output\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\asus\.android\build-cache\e13461cd268b590a43a1260a9337642869dc8571\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] C:\Users\asus\.android\build-cache\f0dbdd4151c427101ea2b9d65cf79a163f943487\output\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\asus\.android\build-cache\e13461cd268b590a43a1260a9337642869dc8571\output\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\asus\.android\build-cache\e13461cd268b590a43a1260a9337642869dc8571\output\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\asus\.android\build-cache\e13461cd268b590a43a1260a9337642869dc8571\output\AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\asus\.android\build-cache\e13461cd268b590a43a1260a9337642869dc8571\output\AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\asus\.android\build-cache\e13461cd268b590a43a1260a9337642869dc8571\output\AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\asus\.android\build-cache\e13461cd268b590a43a1260a9337642869dc8571\output\AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\asus\.android\build-cache\e13461cd268b590a43a1260a9337642869dc8571\output\AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] C:\Users\asus\.android\build-cache\e13461cd268b590a43a1260a9337642869dc8571\output\AndroidManifest.xml:33:16-90
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\asus\.android\build-cache\659f46694f16204394601ad4ba20c9bb1c3aabf7\output\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\asus\.android\build-cache\659f46694f16204394601ad4ba20c9bb1c3aabf7\output\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\asus\.android\build-cache\659f46694f16204394601ad4ba20c9bb1c3aabf7\output\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\asus\.android\build-cache\659f46694f16204394601ad4ba20c9bb1c3aabf7\output\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\asus\.android\build-cache\659f46694f16204394601ad4ba20c9bb1c3aabf7\output\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\asus\.android\build-cache\659f46694f16204394601ad4ba20c9bb1c3aabf7\output\AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\asus\.android\build-cache\659f46694f16204394601ad4ba20c9bb1c3aabf7\output\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\asus\.android\build-cache\659f46694f16204394601ad4ba20c9bb1c3aabf7\output\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\asus\.android\build-cache\659f46694f16204394601ad4ba20c9bb1c3aabf7\output\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\asus\.android\build-cache\659f46694f16204394601ad4ba20c9bb1c3aabf7\output\AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\asus\.android\build-cache\659f46694f16204394601ad4ba20c9bb1c3aabf7\output\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\asus\.android\build-cache\659f46694f16204394601ad4ba20c9bb1c3aabf7\output\AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\asus\.android\build-cache\659f46694f16204394601ad4ba20c9bb1c3aabf7\output\AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\asus\.android\build-cache\659f46694f16204394601ad4ba20c9bb1c3aabf7\output\AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\asus\.android\build-cache\659f46694f16204394601ad4ba20c9bb1c3aabf7\output\AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\asus\.android\build-cache\659f46694f16204394601ad4ba20c9bb1c3aabf7\output\AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\asus\.android\build-cache\659f46694f16204394601ad4ba20c9bb1c3aabf7\output\AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\asus\.android\build-cache\659f46694f16204394601ad4ba20c9bb1c3aabf7\output\AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\asus\.android\build-cache\659f46694f16204394601ad4ba20c9bb1c3aabf7\output\AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\asus\.android\build-cache\659f46694f16204394601ad4ba20c9bb1c3aabf7\output\AndroidManifest.xml:43:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\asus\.android\build-cache\659f46694f16204394601ad4ba20c9bb1c3aabf7\output\AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\asus\.android\build-cache\659f46694f16204394601ad4ba20c9bb1c3aabf7\output\AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\asus\.android\build-cache\659f46694f16204394601ad4ba20c9bb1c3aabf7\output\AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] C:\Users\asus\.android\build-cache\659f46694f16204394601ad4ba20c9bb1c3aabf7\output\AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.0.0] C:\Users\asus\.android\build-cache\1e1c2c82ade72a27b2e0aef6490db6775ef32bed\output\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.0.0] C:\Users\asus\.android\build-cache\1e1c2c82ade72a27b2e0aef6490db6775ef32bed\output\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.0.0] C:\Users\asus\.android\build-cache\1e1c2c82ade72a27b2e0aef6490db6775ef32bed\output\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.0.0] C:\Users\asus\.android\build-cache\1e1c2c82ade72a27b2e0aef6490db6775ef32bed\output\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.0.0] C:\Users\asus\.android\build-cache\1e1c2c82ade72a27b2e0aef6490db6775ef32bed\output\AndroidManifest.xml:6:79-143
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.0] C:\Users\asus\.android\build-cache\014ad7a65331b101aa10376bd678d497eac520ef\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.0] C:\Users\asus\.android\build-cache\014ad7a65331b101aa10376bd678d497eac520ef\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.0] C:\Users\asus\.android\build-cache\014ad7a65331b101aa10376bd678d497eac520ef\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.0] C:\Users\asus\.android\build-cache\014ad7a65331b101aa10376bd678d497eac520ef\output\AndroidManifest.xml:19:19-85
+provider#android.support.v4.content.FileProvider
+ADDED from [com.sangcomz:FishBun:0.7.7] C:\Users\asus\.android\build-cache\9ff380ca1f91b720f836faa864f427e7b5b5ba77\output\AndroidManifest.xml:12:9-20:20
+	android:authorities
+		ADDED from [com.sangcomz:FishBun:0.7.7] C:\Users\asus\.android\build-cache\9ff380ca1f91b720f836faa864f427e7b5b5ba77\output\AndroidManifest.xml:14:13-60
+	android:grantUriPermissions
+		ADDED from [com.sangcomz:FishBun:0.7.7] C:\Users\asus\.android\build-cache\9ff380ca1f91b720f836faa864f427e7b5b5ba77\output\AndroidManifest.xml:16:13-47
+	android:exported
+		ADDED from [com.sangcomz:FishBun:0.7.7] C:\Users\asus\.android\build-cache\9ff380ca1f91b720f836faa864f427e7b5b5ba77\output\AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [com.sangcomz:FishBun:0.7.7] C:\Users\asus\.android\build-cache\9ff380ca1f91b720f836faa864f427e7b5b5ba77\output\AndroidManifest.xml:13:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [com.sangcomz:FishBun:0.7.7] C:\Users\asus\.android\build-cache\9ff380ca1f91b720f836faa864f427e7b5b5ba77\output\AndroidManifest.xml:17:13-19:58
+	android:resource
+		ADDED from [com.sangcomz:FishBun:0.7.7] C:\Users\asus\.android\build-cache\9ff380ca1f91b720f836faa864f427e7b5b5ba77\output\AndroidManifest.xml:19:17-55
+	android:name
+		ADDED from [com.sangcomz:FishBun:0.7.7] C:\Users\asus\.android\build-cache\9ff380ca1f91b720f836faa864f427e7b5b5ba77\output\AndroidManifest.xml:18:17-67
+activity#com.sangcomz.fishbun.ui.album.AlbumActivity
+ADDED from [com.sangcomz:FishBun:0.7.7] C:\Users\asus\.android\build-cache\9ff380ca1f91b720f836faa864f427e7b5b5ba77\output\AndroidManifest.xml:22:9-25:51
+	android:label
+		ADDED from [com.sangcomz:FishBun:0.7.7] C:\Users\asus\.android\build-cache\9ff380ca1f91b720f836faa864f427e7b5b5ba77\output\AndroidManifest.xml:24:13-42
+	android:theme
+		ADDED from [com.sangcomz:FishBun:0.7.7] C:\Users\asus\.android\build-cache\9ff380ca1f91b720f836faa864f427e7b5b5ba77\output\AndroidManifest.xml:25:13-48
+	android:name
+		ADDED from [com.sangcomz:FishBun:0.7.7] C:\Users\asus\.android\build-cache\9ff380ca1f91b720f836faa864f427e7b5b5ba77\output\AndroidManifest.xml:23:13-71
+activity#com.sangcomz.fishbun.ui.picker.PickerActivity
+ADDED from [com.sangcomz:FishBun:0.7.7] C:\Users\asus\.android\build-cache\9ff380ca1f91b720f836faa864f427e7b5b5ba77\output\AndroidManifest.xml:26:9-28:51
+	android:theme
+		ADDED from [com.sangcomz:FishBun:0.7.7] C:\Users\asus\.android\build-cache\9ff380ca1f91b720f836faa864f427e7b5b5ba77\output\AndroidManifest.xml:28:13-48
+	android:name
+		ADDED from [com.sangcomz:FishBun:0.7.7] C:\Users\asus\.android\build-cache\9ff380ca1f91b720f836faa864f427e7b5b5ba77\output\AndroidManifest.xml:27:13-73
+activity#com.sangcomz.fishbun.ui.detail.DetailActivity
+ADDED from [com.sangcomz:FishBun:0.7.7] C:\Users\asus\.android\build-cache\9ff380ca1f91b720f836faa864f427e7b5b5ba77\output\AndroidManifest.xml:29:9-31:54
+	android:theme
+		ADDED from [com.sangcomz:FishBun:0.7.7] C:\Users\asus\.android\build-cache\9ff380ca1f91b720f836faa864f427e7b5b5ba77\output\AndroidManifest.xml:31:13-51
+	android:name
+		ADDED from [com.sangcomz:FishBun:0.7.7] C:\Users\asus\.android\build-cache\9ff380ca1f91b720f836faa864f427e7b5b5ba77\output\AndroidManifest.xml:30:13-73
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] C:\Users\asus\.android\build-cache\25b9d948f98d917a6a49bdbd08d1a5e16fab6158\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\asus\.android\build-cache\6c1d7932ce082b75c83e0ab78cf323751452010c\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\asus\.android\build-cache\3ea6170f3f79df6702fcf23fec36595ffe430191\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\asus\.android\build-cache\92d24f60dd0e2a3f6cc73552fae0fb6b252fd7c1\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\asus\.android\build-cache\56afd9c6fc8da988cf86d259d991d92fea347e82\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\asus\.android\build-cache\e5f480d1c16f8f1aa7a3624595ae9bf662e99521\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\asus\.android\build-cache\785b0ba4359306875533f5ca00fbfa59020fbf70\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\asus\.android\build-cache\5fde72dc2c745de6f09bc52f6253e41e6b8d4b5a\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\asus\.android\build-cache\418d2b2d08834b7c89ee2de1c728789c36102630\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\asus\.android\build-cache\7d8b7573b4d53fc59759eaacd5eed11acf667c0b\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\asus\.android\build-cache\41a5150a3d1d19d536a735ccb8563a94e8173c53\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\asus\.android\build-cache\65fa8dfcca2a3c2cbac8b2f94ce73520d040dc7e\output\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] C:\Users\asus\.android\build-cache\25b9d948f98d917a6a49bdbd08d1a5e16fab6158\output\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] C:\Users\asus\.android\build-cache\25b9d948f98d917a6a49bdbd08d1a5e16fab6158\output\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\asus\.android\build-cache\3415a07d72596ae7cfa37f3b08ea362c452c187e\output\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\asus\.android\build-cache\3415a07d72596ae7cfa37f3b08ea362c452c187e\output\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\asus\.android\build-cache\3415a07d72596ae7cfa37f3b08ea362c452c187e\output\AndroidManifest.xml:26:13-58
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] C:\Users\asus\.android\build-cache\6bd081ccec28b91ff7c84b1404a557d700e630ce\output\AndroidManifest.xml:25:5-80
+IMPLIED from E:\Bryan Face API\PunchCard Android v1 Deliverable\Application\src\main\AndroidManifest.xml:2:1-112:12 reason: com.squareup.leakcanary requested WRITE_EXTERNAL_STORAGE
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] C:\Users\asus\.android\build-cache\6bd081ccec28b91ff7c84b1404a557d700e630ce\output\AndroidManifest.xml:25:22-77
+service#com.squareup.leakcanary.internal.HeapAnalyzerService
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] C:\Users\asus\.android\build-cache\6bd081ccec28b91ff7c84b1404a557d700e630ce\output\AndroidManifest.xml:29:9-32:45
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] C:\Users\asus\.android\build-cache\6bd081ccec28b91ff7c84b1404a557d700e630ce\output\AndroidManifest.xml:31:13-36
+	android:process
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] C:\Users\asus\.android\build-cache\6bd081ccec28b91ff7c84b1404a557d700e630ce\output\AndroidManifest.xml:32:13-42
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] C:\Users\asus\.android\build-cache\6bd081ccec28b91ff7c84b1404a557d700e630ce\output\AndroidManifest.xml:30:13-80
+service#com.squareup.leakcanary.DisplayLeakService
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] C:\Users\asus\.android\build-cache\6bd081ccec28b91ff7c84b1404a557d700e630ce\output\AndroidManifest.xml:33:9-35:39
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] C:\Users\asus\.android\build-cache\6bd081ccec28b91ff7c84b1404a557d700e630ce\output\AndroidManifest.xml:35:13-36
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] C:\Users\asus\.android\build-cache\6bd081ccec28b91ff7c84b1404a557d700e630ce\output\AndroidManifest.xml:34:13-70
+activity#com.squareup.leakcanary.internal.DisplayLeakActivity
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] C:\Users\asus\.android\build-cache\6bd081ccec28b91ff7c84b1404a557d700e630ce\output\AndroidManifest.xml:37:9-49:20
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] C:\Users\asus\.android\build-cache\6bd081ccec28b91ff7c84b1404a557d700e630ce\output\AndroidManifest.xml:39:13-36
+	android:label
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] C:\Users\asus\.android\build-cache\6bd081ccec28b91ff7c84b1404a557d700e630ce\output\AndroidManifest.xml:41:13-71
+	android:icon
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] C:\Users\asus\.android\build-cache\6bd081ccec28b91ff7c84b1404a557d700e630ce\output\AndroidManifest.xml:40:13-54
+	android:theme
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] C:\Users\asus\.android\build-cache\6bd081ccec28b91ff7c84b1404a557d700e630ce\output\AndroidManifest.xml:43:13-63
+	android:taskAffinity
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] C:\Users\asus\.android\build-cache\6bd081ccec28b91ff7c84b1404a557d700e630ce\output\AndroidManifest.xml:42:13-59
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] C:\Users\asus\.android\build-cache\6bd081ccec28b91ff7c84b1404a557d700e630ce\output\AndroidManifest.xml:38:13-80
+activity#com.squareup.leakcanary.internal.RequestStoragePermissionActivity
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] C:\Users\asus\.android\build-cache\6bd081ccec28b91ff7c84b1404a557d700e630ce\output\AndroidManifest.xml:50:9-56:68
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] C:\Users\asus\.android\build-cache\6bd081ccec28b91ff7c84b1404a557d700e630ce\output\AndroidManifest.xml:52:13-36
+	android:label
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] C:\Users\asus\.android\build-cache\6bd081ccec28b91ff7c84b1404a557d700e630ce\output\AndroidManifest.xml:54:13-82
+	android:icon
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] C:\Users\asus\.android\build-cache\6bd081ccec28b91ff7c84b1404a557d700e630ce\output\AndroidManifest.xml:53:13-54
+	android:theme
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] C:\Users\asus\.android\build-cache\6bd081ccec28b91ff7c84b1404a557d700e630ce\output\AndroidManifest.xml:56:13-65
+	android:taskAffinity
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] C:\Users\asus\.android\build-cache\6bd081ccec28b91ff7c84b1404a557d700e630ce\output\AndroidManifest.xml:55:13-59
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] C:\Users\asus\.android\build-cache\6bd081ccec28b91ff7c84b1404a557d700e630ce\output\AndroidManifest.xml:51:13-93

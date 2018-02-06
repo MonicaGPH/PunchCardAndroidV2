@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.inverseapps.punchcard.ui.EditProfileActivity"
+    android:id="@+id/activity_edit_profile"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:clickable="true"
+    android:focusableInTouchMode="true">
+
+    <Button
+        android:text="Click here to save changes!"
+        android:layout_width="match_parent"
+        android:id="@+id/btnSave"
+        android:background="@color/logo_orange"
+        android:textAllCaps="false"
+        android:padding="10dp"
+        android:layout_height="60dp" />
+
+    <android.support.v4.widget.SwipeRefreshLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/swipeRefreshLayout">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fillViewport="true"
+            android:clickable="true"
+            android:focusableInTouchMode="true">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:clickable="true"
+                android:focusableInTouchMode="true">
+
+                <fragment
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:name="com.inverseapps.punchcard.fragments.editprofile.FragmentEditGeneralInfo"
+                    android:id="@+id/fragmentEditGeneralInfo"
+                    tools:layout="@layout/fragment_edit_general_info" />
+
+                <fragment
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:name="com.inverseapps.punchcard.fragments.editprofile.FragmentEditPrimaryAddress"
+                    android:id="@+id/fragmentEditPrimaryAddress"
+                    tools:layout="@layout/fragment_edit_primaryaddress" />
+                <fragment
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:name="com.inverseapps.punchcard.fragments.editprofile.FragmentEditSecondaryAddress"
+                    android:id="@+id/fragmentEditSecondaryAddress"
+                    tools:layout="@layout/fragment_edit_secondaryaddress" />
+                <fragment
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:name="com.inverseapps.punchcard.fragments.editprofile.FragmentEditEmerContact"
+                    android:id="@+id/fragmentEditEmerContact"
+                    tools:layout="@layout/fragment_edit_emer_contact" />
+
+                <fragment
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:name="com.inverseapps.punchcard.fragments.editprofile.FragmentEditVehicle"
+                    android:id="@+id/fragmentEditVehicle"
+                    tools:layout="@layout/fragment_edit_vehicle" />
+            </LinearLayout>
+        </ScrollView>
+    </android.support.v4.widget.SwipeRefreshLayout>
+
+</LinearLayout>

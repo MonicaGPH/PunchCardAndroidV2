@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.inverseapps.punchcard.ui.HomeActivity"
+    android:background="@drawable/login_background"
+    android:clickable="true"
+    android:focusableInTouchMode="true"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingEnd="20dp"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:paddingStart="20dp"
+        android:orientation="vertical"
+        android:clickable="true"
+        android:id="@+id/layout_root"
+        android:focusableInTouchMode="true"
+        android:gravity="center_vertical">
+
+        <Button
+            android:text="Settings"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/btnSettings"
+            android:layout_gravity="right"
+            android:textAllCaps="false"
+            android:background="@android:color/transparent"
+            android:textColor="@color/white" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageView"
+            android:src="@drawable/logo"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="10dp" />
+
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:inputType="textPersonName"
+            android:ems="10"
+            android:id="@+id/txtCompanyHandle"
+            android:background="@drawable/edittext_shape"
+            android:layout_marginBottom="5dp"
+            android:layout_marginTop="5dp"
+            android:gravity="center_vertical|center"
+            android:hint="Company handle" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:gravity="center"
+            android:id="@+id/txtUserName"
+            android:inputType="text"
+            android:paddingLeft="3dp"
+            android:paddingRight="3dp"
+            android:singleLine="true"
+            android:hint="email, mobile number or username"
+            android:background="@drawable/edittext_shape"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp" />
+
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:passwordToggleDrawable="@drawable/password_toggle_drawable"
+            app:passwordToggleEnabled="true"
+            android:layout_marginTop="5dp"
+            android:id="@+id/txtLayout"
+            android:layout_marginBottom="5dp"
+           >
+
+            <android.support.design.widget.TextInputEditText
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                android:gravity="center"
+                android:id="@+id/txtPassword"
+                android:background="@drawable/edittext_shape"
+                android:inputType="textPassword"
+                android:drawableRight="@drawable/hide"
+                android:paddingRight="5dp"
+
+                />
+        </android.support.design.widget.TextInputLayout>
+
+
+        <!--    <EditText
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                android:gravity="center"
+                android:id="@+id/txtPassword"
+                android:background="@drawable/edittext_shape"
+                android:hint="Password"
+                android:layout_marginTop="5dp"
+                android:inputType="textPassword"
+                android:drawableRight="@drawable/hide"
+                android:paddingRight="5dp"
+                android:layout_marginBottom="5dp" />-->
+
+        <CheckBox
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" Remember Me"
+            android:textColor="@color/white"
+            android:textSize="18sp"
+            android:id="@+id/chkRememberMe"
+            android:layout_below="@+id/txtPassword"
+            android:layout_marginTop="5dp"
+            android:layout_centerHorizontal="true"
+            android:button="@drawable/cb_selector"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="5dp" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:text="Sign In"
+            android:id="@+id/btnLogin"
+            android:textColor="@color/font_dark"
+            android:layout_marginTop="5dp"
+            android:background="@drawable/button"
+            android:layout_height="48dp"
+            android:layout_marginBottom="5dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Forgot password?"
+            android:textColor="@color/white"
+            android:id="@+id/lblForgotPassword"
+            android:textSize="18sp"
+            android:layout_marginTop="5dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="5dp" />
+    </LinearLayout>
+</ScrollView>
